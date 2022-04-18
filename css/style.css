@@ -1,0 +1,17 @@
+.bg-one {
+    background-color: orangered;
+    border: 1px solid blue;
+    padding: 10px;
+}
+
+.bg-two {
+    background-color: white;
+    border: 1px solid brown;
+    padding: 10px;
+}
+
+.bg-three {
+    background-color: green;
+    border: 1px solid green;
+    padding: 10px;
+} 
